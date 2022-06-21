@@ -1,0 +1,22 @@
+{
+  "name": "react-native-web-responsive",
+  "version": "0.0.1",
+  "description": "Responsive component for react-native-web",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boulinb/react-native-web-responsive.git"
+  },
+  "author": "Dydy <benjamin.boulin.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boulinb/react-native-web-responsive/issues"
+  },
+  "homepage": "https://github.com/boulinb/react-native-web-responsive#readme",
+  "dependencies": {
+    "react-native": "^0.68.2"
+  }
+}
