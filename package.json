@@ -16,7 +16,7 @@
     "url": "https://github.com/boulinb/react-native-web-responsive/issues"
   },
   "homepage": "https://github.com/boulinb/react-native-web-responsive#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react-native": "^0.68.2"
   }
 }
