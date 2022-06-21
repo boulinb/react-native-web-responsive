@@ -43,7 +43,7 @@ export default App;
 | Array | IResponsive |
 
 ### Type
-####IResponsive
+#### IResponsive
 | Name | Value |
 | ------ | ------ |
 | value | number |
